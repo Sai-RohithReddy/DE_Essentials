@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["common-ufb-desktop-server-side","common-desktop-server-side","common-ufb-mobile-server-side"],[]]);
-//# sourceMappingURL=common-ufb-desktop-server-side.350a5ec5ae079b1dbef9.js.map
