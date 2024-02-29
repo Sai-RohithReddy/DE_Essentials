@@ -1,0 +1,12 @@
+emp_id,name,age,gender,dept_id,mgr_emp_id
+Emp001,Neeraj,32,Male,dept_1,Emp007
+Emp002,Sahil,28,Male,dept_2,Emp001
+Emp003,Fortune,22,Female,dept_1
+Emp004,Srikanth,26,Male,dept_3,Emp002
+Emp005,Vidya,23,Female,dept_4,Emp002
+,Lakshmi,24,Female,dept_2,Emp003
+Emp007,Mahesh,36,Male,dept_1,Emp007
+Emp007,Ritesh,26,Male,dept_2,Emp003
+Emp008,Ritest,26,Male,dept_2,Emp001,Pune
+Ritest,26,Male,dept_2,Emp003
+Emp010,Ajay,28,Male,dept_2,Emp002

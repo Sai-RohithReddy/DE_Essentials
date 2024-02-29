@@ -1,0 +1,5 @@
+{"order_customer_id":11599,"order_id":1,"order_date":"2013-07-25 00:00:00.0","order_status":"CLOSED"}
+{"order_customer_id":256,"order_id":2,"order_date":"2013-07-25 00:00:00.0","order_status":"PENDING_PAYMENT"}
+{"order_customer_id":12111,"order_id":3,"order_date":"2013-07-25 00:00:00.0","order_status":"COMPLETE"}
+{"order_customer_id":8827,"order_id":4,"order_date":"2013-07-25 00:00:00.0","order_status":"CLOSED"}
+{"order_customer_id":11318,"order_id":5,"order_date":"2013-07-25 00:00:00.0","order_status":"COMPLETE"}
